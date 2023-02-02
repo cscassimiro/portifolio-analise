@@ -10,7 +10,7 @@ Nesse repositório você irá encontrar a analise de dois projetos, sendo:
 ---
 - Protótipo do Figma [PodCastAPP](https://www.uplabs.com/posts/podcast-app-27e7dba2-b5d6-40f8-be0f-52d6710b9af7)
 
-![Referencia Prototipo](img\ref_figma.png?raw=true "PodCast")
+![Referencia Prototipo](img/ref_figma.png?raw=true "PodCast")
 
 <br>
 
@@ -19,6 +19,6 @@ Nesse repositório você irá encontrar a analise de dois projetos, sendo:
 
 - Site utilizado para elaboração do plano [Saucedemo](https://www.saucedemo.com/)
 
-![Home Site Saucedemo](img\site_saucedemo.png?raw=true "Home")
+![Home Site Saucedemo](img/site_saucedemo.png?raw=true "Home")
 
 
