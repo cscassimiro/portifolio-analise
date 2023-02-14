@@ -65,7 +65,7 @@ Este projeto foi criado com o propósito de praticar a criação e execução do
 > **Macro**: contém a lista suspesa editável, utilizada nas tabelas: *Escopo de Teste* e *Suites*.
 <div align="center">
 
-![Critério de Aceite](/soucedemo/img/ref_abacriterio.png?raw=true "Critério de Aceite")
+![Critério de Aceite](/soucedemo/img/ref_abamacro.png?raw=true "Critério de Aceite")
 
 </div>
 
