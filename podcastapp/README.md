@@ -33,7 +33,9 @@ A Imagem abaixo irá indicar como foi realizada a analise deste projeto, onde fo
 ### **Referência da Análise**
 
 > Excel com detalhes da [Analise](https://docs.google.com/spreadsheets/d/1MBsf0SoZCGSQZm4bebEIbTJVdq3duAul/edit?usp=share_link&ouid=116906894958783366228&rtpof=true&sd=true)
-<br>
+
+
+
 - REQ 1 - Exibir splash screen
 - REQ 2 - Criar padrão de header
 - REQ 3 - Top 10 podCast
